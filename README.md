@@ -11,12 +11,19 @@
 - Generación de gráficos ilustrativos del recorrido.
 - Exportación de resultados en un informe PDF.
 
-## Estado del Proyecto
-
-Este proyecto se encuentra en una versión de prueba que funciona en la terminal. Está pendiente de desarrollar una interfaz de usuario completa y accesible.
-
 ## Muestra
 
-A continuación, se muestra un ejemplo de los resultados generados por el programa:
+A continuación, se muestra un ejemplo de los resultados generados por el programa. En este caso se trata del análisis realizado de cara a la competición Trencacims Mitja, que fue Campeonato de España de Carreras por Montañana 2024.
 
-![Ejemplo de análisis](ruta/a/la/imagen.png)
+![Análisis de subidas](sample/subidas.png)
+
+![Análisis de bajadas](sample/bajadas.png)
+
+## Estado del Proyecto
+
+Este proyecto se encuentra en una versión de prueba. Gran parte de su funcionalidad está aún pendiente de desarrollo:
+- Análisis de tecnicidad basado en histórico de tiempos de Strava.
+- Estimación de tiempos para entornos competitivos.
+- Interfaz de usuario completa y accesible, que permita al usuario generar un briefing completo del recorrido, añadiendo descripciones en forma de párrafos de texto o fotografías. Esta funcionalidad permitirá la elaboración de briefings de alto nivel para eventos regionales y nacionales de todo tipo.
+
+
