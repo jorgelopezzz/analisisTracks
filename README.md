@@ -13,7 +13,7 @@
 
 ## Muestra
 
-A continuación, se muestra un ejemplo de los resultados generados por el programa. En este caso se trata del análisis realizado de cara a la competición Trencacims, en su distancia de 24 kilómetros con 1800 metros de desnivel positivo. Fue Campeonato de España de Carreras por Montaña 2024 por la Federación Española de Montañismo y Escalada.
+A continuación, se muestra un ejemplo de los resultados generados por el programa. En este caso se trata del análisis realizado de cara a la competición Trencacims, en su distancia de 24 kilómetros con 1800 metros de desnivel positivo. Fue Campeonato de España de Carreras por Montaña 2024 por la Federación Española de Deportes de Montaña y Escalada.
 
 ![Análisis de subidas](sample/subidas.png)
 
